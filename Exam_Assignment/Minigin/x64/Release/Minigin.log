@@ -1,0 +1,32 @@
+﻿  MiniginPCH.cpp
+  Actor.cpp
+  Command.cpp
+  Component.cpp
+  Font.cpp
+  FPS_Counter.cpp
+  GameObject.cpp
+  Ghost.cpp
+  HitBoxComponent.cpp
+  ImageComponent.cpp
+  InputManager.cpp
+  Level.cpp
+  Log.cpp
+  Main.cpp
+  Minigin.cpp
+  Renderer.cpp
+  ResourceManager.cpp
+  Scene.cpp
+c:\users\bramd\onedrive\documenten\programming 4\exam_assignment\minigin\scene.cpp(15): error C2248: 'GameObject::m_Scene': cannot access protected member declared in class 'GameObject'
+  c:\users\bramd\onedrive\documenten\programming 4\exam_assignment\minigin\gameobject.h(38): note: see declaration of 'GameObject::m_Scene'
+  c:\users\bramd\onedrive\documenten\programming 4\exam_assignment\minigin\gameobject.h(9): note: see declaration of 'GameObject'
+  SceneManager.cpp
+  Score.cpp
+  TextComponent.cpp
+  Compiling...
+  Texture2D.cpp
+  Tile.cpp
+  Transform.cpp
+  TurnDownCommand.cpp
+  TurnLeftCommand.cpp
+  TurnRightCommand.cpp
+  TurnUpCommand.cpp
